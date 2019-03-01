@@ -1,0 +1,23 @@
+{
+  "name": "udemy-nodejs",
+  "version": "1.0.0",
+  "description": "Test project for following along with test examples.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFennell/udemy-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFennell/udemy-nodejs/issues"
+  },
+  "homepage": "https://github.com/MrFennell/udemy-nodejs#readme"
+}
